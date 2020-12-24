@@ -1,0 +1,1 @@
+http://docs.ros.org/en/indigo/api/map_merger/html/mapstitch_8cpp_source.html
