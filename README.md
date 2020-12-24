@@ -2,7 +2,7 @@
 Map_Merger_Opencv_CPP
 
 
-this is a useful Map_Merger that uses two image and find its common point to merge them.
+this is a useful Map_Merger that uses two images and find its common points to merge them.
 
 
 I got help from another repository (I fprgot it and its hard to find it again,so if i find it, will be added here)
